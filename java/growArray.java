@@ -1,9 +1,9 @@
 import java.util.ArrayList;
 
 /**
- * Algorithm which pushes integers to a dynamic (growing) array
+ * Algorithm which pushes integers to a dynamic (growing) array, using ArrayList
  */
-class growArray {
+class GrowArrayList {
   public static void main(String[] args) {
     long startTime;
     int maxNum = 1000000; // by default 1 million integers in array
