@@ -31,11 +31,11 @@ class growList {
 /*
 Intel i7 2.9 GHz, Windows 10 64bit, Java OpenJDK 15.0.1
 
-3 test runs with parameters: 1000002, 1000003, 1000004 (to avoid any runtime caching)
+3 test runs with parameters: 1000002, 1000003, 1000004
 
-0.1172112
-0.1074784
-0.1174478
-= AVERAGE: 114.0ms
+0.1172112 (117.2ms)
+0.1074784 (107.5ms)
+0.1174478 (117.4ms)
+AVERAGE: 114.0ms
 
 */
