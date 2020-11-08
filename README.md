@@ -38,3 +38,9 @@ Speed comparison, Java vs. C# (DotNet Core), filling an array with 1 million int
 - 7ms
 - 6ms
 - AVERAGE: 6.3ms
+
+## growLinkedList.cs
+- 81ms
+- 96ms
+- 83ms
+- AVERAGE: 86.7ms
