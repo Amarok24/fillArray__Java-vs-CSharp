@@ -5,11 +5,11 @@ using System.Diagnostics;
 /**
  * Algorithm which pushes integers to a dynamic (growing) array, here using heterogenous ArrayList
  */
-class GrowArrayList
+class GrowHetArrayList
 {
   static void Main(string[] args)
   {
-    ArrayList dynArray = new ArrayList(); // ArrayList can hold mixed types, therefore slow
+    ArrayList hetArray = new ArrayList(); // ArrayList can hold mixed types, therefore slow
     int maxNum = 1000000; // by default 1 million integers in array
     Stopwatch stopwatch = new Stopwatch();
 
@@ -27,7 +27,7 @@ class GrowArrayList
 
     for (int i = 0; i < maxNum; i++)
     {
-      dynArray.Add(i);
+      hetArray.Add(i);
     }
 
     stopwatch.Stop();
