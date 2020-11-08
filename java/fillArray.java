@@ -30,12 +30,11 @@ class fillArray {
 /*
 Intel i7 2.9 GHz, Windows 10 64bit, Java OpenJDK 15.0.1
 
-3 test runs with parameters: 1000002, 1000003, 1000004 (to avoid any runtime caching)
+3 test runs with parameters: 1000002, 1000003, 1000004
 
-0.0051042s
-0.0049314s
-0.0058498s
-
-= AVERAGE: 5.3ms
+0.0051042s (5.1ms)
+0.0049314s (4.9ms)
+0.0058498s (5.8ms)
+AVERAGE: 5.3ms
 
 */
