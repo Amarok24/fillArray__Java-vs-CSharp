@@ -6,7 +6,13 @@ Speed comparison, Java vs. C# (DotNet Core), filling an array with 1 million int
 *Java: OpenJDK 15.0.1*
 *C# v8.0 (compiler v3.7.0-6.20459.4)
 
-### 3 test runs with parameters: 1000002, 1000003, 1000004 (to avoid any runtime caching)
+### 3 test runs with parameters: 1000002, 1000003, 1000004
+
+## fillArray.java
+- 0.0051042s
+- 0.0049314s
+- 0.0058498s
+- AVERAGE: 5.3ms
 
 ## growArray.java
 - 0.0291516s
@@ -20,9 +26,9 @@ Speed comparison, Java vs. C# (DotNet Core), filling an array with 1 million int
 - 0.1174478
 - AVERAGE: 114.0ms
 
-## fillArray.java
-- 0.0051042s
-- 0.0049314s
-- 0.0058498s
-- AVERAGE: 5.3ms
 
+## fillArray.cs
+- 3ms
+- 4ms
+- 3ms
+- AVERAGE: 3.3ms
