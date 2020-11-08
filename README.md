@@ -51,4 +51,4 @@ There are much more collection types in C#, this one just as a bonus:
 - 95ms
 - 70ms
 - 74ms
-AVERAGE: 79.7ms
+- AVERAGE: 79.7ms
