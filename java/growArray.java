@@ -31,11 +31,11 @@ class growArray {
 /*
 Intel i7 2.9 GHz, Windows 10 64bit, Java OpenJDK 15.0.1
 
-3 test runs with parameters: 1000002, 1000003, 1000004 (to avoid any runtime caching)
+3 test runs with parameters: 1000002, 1000003, 1000004
 
-0.0291516s
-0.0306681s
-0.0293959s
+0.0291516s (29.2ms)
+0.0306681s (30.7ms)
+0.0293959s (29.4ms)
 = AVERAGE: 29.74ms
 
 */
