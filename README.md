@@ -44,3 +44,9 @@ Speed comparison, Java vs. C# (DotNet Core), filling an array with 1 million int
 - 96ms
 - 83ms
 - AVERAGE: 86.7ms
+
+## growDynArrayList.cs
+- 95ms
+- 70ms
+- 74ms
+AVERAGE: 79.7ms
