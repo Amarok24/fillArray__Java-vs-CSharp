@@ -1,6 +1,8 @@
 using System;
 using System.Diagnostics;
-
+/**
+ * Algorithm which fills an array (pre-defined length) with integers
+ */
 class FillArray
 {
   static void Main(string[] args)
