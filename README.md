@@ -5,7 +5,7 @@ Speed comparison, Java vs. C# (DotNet Core), filling an array with 1 million int
 
 *Java: OpenJDK 15.0.1*
 
-*C# v8.0 (compiler v3.7.0-6.20459.4)
+*C# v8.0 (compiler v3.7.0-6.20459.4)*
 
 ### 3 test runs with parameters: 1000002, 1000003, 1000004
 
