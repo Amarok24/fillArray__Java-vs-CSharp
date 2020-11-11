@@ -5,7 +5,7 @@ Speed comparison, Java vs. C# (DotNet Core), filling an array with 1 million int
 
 *Java: OpenJDK 15.0.1*
 
-*C# v8.0 (compiler v3.7.0-6.20459.4)*
+*C# v9.0 (.NET 5.0.100)*
 
 ### 3 test runs with parameters: 1000002, 1000003, 1000004
 
@@ -40,10 +40,10 @@ Speed comparison, Java vs. C# (DotNet Core), filling an array with 1 million int
 - AVERAGE: 6.3ms
 
 ## growLinkedList.cs
-- 81ms
-- 96ms
-- 83ms
-- AVERAGE: 86.7ms
+- 71ms
+- 70ms
+- 71ms
+- AVERAGE: 70.7ms
 
 There are much more collection types in C#, this one just as a bonus:
 
