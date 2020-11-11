@@ -36,12 +36,14 @@ class GrowList
 }
 
 /*
-Intel i7 2.9 GHz, Windows 10 64bit, C# v8.0 (DotNet Core)
-
+Intel i7 2.9 GHz, Windows 10 64bit
 3 test runs with parameters: 1000002, 1000003, 1000004
 
+C# v8.0 (DotNet Core)
 Time elapsed: 6ms
 Time elapsed: 7ms
 Time elapsed: 6ms
 AVERAGE: 6.3ms
+
+Speed with C# 9 (.NET 5) is equivalent.
 */
