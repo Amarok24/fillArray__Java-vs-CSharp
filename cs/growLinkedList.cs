@@ -36,12 +36,18 @@ class GrowLinkedList
 }
 
 /*
-Intel i7 2.9 GHz, Windows 10 64bit, C# v8.0 (DotNet Core)
-
+Intel i7 2.9 GHz, Windows 10 64bit
 3 test runs with parameters: 1000002, 1000003, 1000004
 
+C# v8.0 (DotNet Core 3.1)
 Time elapsed: 81ms
 Time elapsed: 96ms
 Time elapsed: 83ms
 AVERAGE: 86.7ms
+
+C# v9.0 (.NET 5.0.100)
+Time elapsed: 71ms
+Time elapsed: 70ms
+Time elapsed: 71ms
+AVERAGE: 70.7ms
 */
