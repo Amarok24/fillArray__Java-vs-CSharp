@@ -48,7 +48,7 @@ Speed comparison, Java vs. C# (DotNet Core), filling an array with 1 million int
 There are much more collection types in C#, this one just as a bonus:
 
 ## growHetArrayList.cs
-- 95ms
-- 70ms
+- 83ms
 - 74ms
-- AVERAGE: 79.7ms
+- 68ms
+- AVERAGE: 75ms
