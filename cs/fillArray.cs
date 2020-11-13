@@ -31,3 +31,16 @@ class FillArray
         Console.WriteLine("Time elapsed: {0}{1}", stopwatch.ElapsedMilliseconds, "ms");
     }
 }
+
+/*
+Intel i7 2.9 GHz, Windows 10 64bit
+3 test runs with parameters: 1000002, 1000003, 1000004
+
+C# v8.0 (DotNet Core 3.1)
+Time elapsed: 3ms
+Time elapsed: 4ms
+Time elapsed: 3ms
+AVERAGE: 3.3ms
+
+Speed with C# 9 (.NET 5) is equivalent.
+*/
